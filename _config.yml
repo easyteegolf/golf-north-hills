@@ -22,6 +22,7 @@ title: Golf North Hills
 course: Golf North Hills
 booking: https://app.easyteegolf.com/course/golf-north-hills/?p=yes
 email: kcraft1951@gmail.com
+phone: 8709351880
 description: >- # this means to ignore newlines until "baseurl:"
   Golf North Hills, a public 9 hole course designed by Booney Harper, and built by Jerry B. Craft, is located 8 miles north of Jonesboro on Hwy 141.
 # baseurl: "/"
@@ -30,6 +31,7 @@ url: "//golfnorthhills.com/" # the base hostname & protocol for your site, e.g. 
 google_analytics: ""
 # twitter_username: jekyllrb
 # github_username:  jekyll
+facebook_url: "https://www.facebook.com/p/golf-north-hills-100063531704549/"
 
 # Build settings
 # theme: minima
